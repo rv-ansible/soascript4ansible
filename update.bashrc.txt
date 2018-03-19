@@ -1,0 +1,6 @@
+####### for soa start
+export JAVA_HOME=~/jdk
+export ORACLE_HOME=~/Oracle/Middleware/Oracle_Home
+export PATH=~/jdk/bin:${ORACLE_HOME}/OPatch:$PATH
+####### for soa end
+
