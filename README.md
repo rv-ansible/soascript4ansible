@@ -1,0 +1,1 @@
+# soascript4ansible
