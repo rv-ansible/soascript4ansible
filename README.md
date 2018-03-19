@@ -10,3 +10,5 @@ run the script,
 5ServerPerparation.sh
 6install_SOA_jars.sh
 
+
+test
