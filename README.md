@@ -1,5 +1,6 @@
 # soascript4ansible
 
+redhat7.4, binary, 
 
 home folder of the application id, copy everything there,
 ~/software/tos.file.dir/
